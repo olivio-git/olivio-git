@@ -18,15 +18,24 @@ Actualmente, estoy estudiando la carrera de Ingeniería de Sistemas, y hace poco
 
 En mis proyectos, he trabajado con diferentes tecnologías y herramientas. Algunas de las que mejor domino son:
 
--JavaScript
--React.js
--Node.js
--Express.js
--PostgreSQL
--Sequelize
--Git
--HTML
--CSS
+<table>
+  <tr>
+    <td style="background-color: #f16529; color: white">JavaScript</td>
+    <td style="background-color: #61dbfb; color: white">React.js</td>
+    <td style="background-color: #026e00; color: white">Node.js</td>
+  </tr>
+  <tr>
+    <td style="background-color: #303030; color: white">Express.js</td>
+    <td style="background-color: #336791; color: white">PostgreSQL</td>
+    <td style="background-color: #0277bd; color: white">Sequelize</td>
+  </tr>
+  <tr>
+    <td style="background-color: #f05032; color: white">Git</td>
+    <td style="background-color: #e44d26; color: white">HTML</td>
+    <td style="background-color: #2965f1; color: white">CSS</td>
+  </tr>
+</table>
+
 
 ## ¡Hablemos! 📫
 
