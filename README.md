@@ -41,7 +41,7 @@ En mis proyectos, he trabajado con diferentes tecnologías y herramientas. Algun
 
 Si tienes alguna pregunta o quieres hablar sobre posibles colaboraciones, no dudes en contactarme a través de:
 
-- LinkedIn: https://www.linkedin.com/in/olivio-subelza-cabezas-b646a2249/
+- <a href="https://www.linkedin.com/in/olivio-subelza-cabezas-b646a2249/">LinkedIn</a> 
 - Correo electrónico: Subelzaolivitocabezas@gmail.com
 
 ¡Gracias por leer mi README! 🙂
