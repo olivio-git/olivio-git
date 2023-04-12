@@ -25,9 +25,9 @@ En mis proyectos, he trabajado con diferentes tecnologías y herramientas. Algun
     <td style="background-color: #026e00; color: white">Node.js</td>
   </tr>
   <tr>
-    <td style="background-color: #303030; color: white">Express.js</td>
-    <td style="background-color: #336791; color: white">PostgreSQL</td>
-    <td style="background-color: #0277bd; color: white">Sequelize</td>
+    <td style="background-color: green; color: white">Express.js</td>
+    <td style="background-color: green; color: white">PostgreSQL</td>
+    <td style="background-color: green; color: white">Sequelize</td>
   </tr>
   <tr>
     <td style="background-color: #f05032; color: white">Git</td>
