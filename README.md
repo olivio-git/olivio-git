@@ -44,4 +44,4 @@ Si tienes alguna pregunta o quieres hablar sobre posibles colaboraciones, no dud
 - 📌 <a href="https://www.linkedin.com/in/olivio-subelza-cabezas-b646a2249/">LinkedIn</a> 
 - 📩 Correo electrónico: Subelzaolivitocabezas@gmail.com
 
-¡Gracias por leer mi README! 🙂
+¡Saludos! 🙂
