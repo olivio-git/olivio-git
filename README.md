@@ -8,7 +8,7 @@ Desde que empecé a programar, he estado trabajando en diferentes proyectos acad
 
 ## ¿Qué hago? 💻
 
-Actualmente, estoy estudiando la carrera de Ingeniería de Sistemas, y hace poco me gradue de Henry en Desarrollo Web Full-Stack. Me encanta aprender y experimentar con nuevas tecnologías, lo que me permite mantenerme actualizado y seguir mejorando como programador.
+Actualmente, estoy culminando la carrera de Ingeniería de Sistemas. Me encanta aprender y experimentar con nuevas tecnologías, lo que me permite mantenerme actualizado y seguir mejorando como programador.
 
 ## ¿A dónde voy? 🚀
 
