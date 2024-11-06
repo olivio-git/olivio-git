@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy Desarrollador Web Full-Stack con una pasión por la tecnología y la resolución de problemas mediante código.
+Soy Desarrollador Web Full-Stack.
 
 Desde que empecé a programar, he estado trabajando en diferentes proyectos académicos y mejorando mis habilidades en diferentes tecnologías.
 
