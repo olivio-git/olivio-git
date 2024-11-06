@@ -2,17 +2,17 @@
 
 ## Sobre mí
 
-Soy Desarrollador Web Full-Stack con una pasión por la tecnología y la resolución de problemas mediante el código.
+Soy Desarrollador Web Full-Stack con una pasión por la tecnología y la resolución de problemas mediante código.
 
 Desde que empecé a programar, he estado trabajando en diferentes proyectos académicos y mejorando mis habilidades en diferentes tecnologías.
 
 ## ¿Qué hago? 💻
 
-Actualmente, estoy culminando la carrera de Ingeniería de Sistemas. Me encanta aprender y experimentar con nuevas tecnologías, lo que me permite mantenerme actualizado y seguir mejorando como programador.
+Actualmente, estoy culminando la carrera de Ingeniería de Sistemas. Y trabajando como Freelancer.
 
 ## ¿A dónde voy? 🚀
 
-"Mi objetivo a largo plazo es seguir creciendo profesionalmente y convertirme en un experto en El desarrollo de Software. Me encanta trabajar en proyectos desafiantes que me permitan aprender y mejorar mis habilidades, y estoy siempre en busca de nuevas oportunidades para seguir avanzando en mi carrera."
+"Mi objetivo a largo plazo es seguir creciendo profesionalmente y convertirme en un mejor desarrollador."
 
 ## ¿Qué tecnologías uso? 🤖
 
