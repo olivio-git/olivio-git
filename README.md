@@ -9,8 +9,7 @@ Desarrollador **Full-Stack** apasionado por crear soluciones innovadoras.
 
 - 🎓 Culminando **Ingeniería de Sistemas** en la Universidad Privada Domingo Savio
 - 💼 **Freelancer** desarrollando aplicaciones web  
-- 🌱 Aprendiendo **arquitecturas escalables**  
-- 🚀 Meta: **Liderar proyectos de impacto global**  
+- 🌱 Aprendiendo **arquitecturas escalables**   
 - 📍 Tarija, Bolivia
 
 ---  
