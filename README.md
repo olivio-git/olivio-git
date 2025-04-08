@@ -1,47 +1,75 @@
-# ¡Hola! 👋 Soy Olivio Subelza Cabezas
+# ¡Hola! 👋 Soy **Olivio Subelza Cabezas**  
 
-## Sobre mí
+<div align="center">
+  <img src="https://img.shields.io/badge/Desarrollador-Javascript-yellow?style=for-the-badge" alt="Web Developer"/>
+</div>
 
-Soy Desarrollador Web Full-Stack.
+## 🔍 **Sobre mí**  
+Desarrollador **Full-Stack** apasionado por crear soluciones innovadoras.  
 
-Desde que empecé a programar, he estado trabajando en diferentes proyectos académicos y mejorando mis habilidades en diferentes tecnologías.
+- 🎓 Culminando **Ingeniería de Sistemas** en la Universidad Privada Domingo Savio
+- 💼 **Freelancer** desarrollando aplicaciones web  
+- 🌱 Aprendiendo **arquitecturas escalables**  
+- 🚀 Meta: **Liderar proyectos de impacto global**  
+- 📍 Tarija, Bolivia
 
-## ¿Qué hago? 💻
+---  
 
-Actualmente, estoy culminando la carrera de Ingeniería de Sistemas. Y trabajando como Freelancer.
+## 🛠️ **Stack Tecnológico**  
 
-## ¿A dónde voy? 🚀
+### **Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-"Mi objetivo a largo plazo es seguir creciendo profesionalmente y convertirme en un mejor desarrollador."
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)   
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
-## ¿Qué tecnologías uso? 🤖
+### **Bases de Datos**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-En mis proyectos, he trabajado con diferentes tecnologías y herramientas. Algunas de las que mejor domino son:
+### **DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-<table>
-  <tr>
-    <td style="background-color: #f16529; color: white">JavaScript</td>
-    <td style="background-color: #61dbfb; color: white">React.js</td>
-    <td style="background-color: #026e00; color: white">Node.js</td>
-  </tr>
-  <tr>
-    <td style="background-color: green; color: white">Express.js</td>
-    <td style="background-color: green; color: white">PostgreSQL</td>
-    <td style="background-color: green; color: white">Sequelize</td>
-  </tr>
-  <tr>
-    <td style="background-color: #f05032; color: white">Git</td>
-    <td style="background-color: #e44d26; color: white">HTML</td>
-    <td style="background-color: #2965f1; color: white">CSS</td>
-  </tr>
-</table>
+### **Autenticación & Seguridad**
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+ 
+---
 
+## 📈 **Estadísticas GitHub**  
 
-## ¡Hablemos! 📫
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olivio-git&show_icons=true&theme=radical&hide_border=true)](https://github.com/olivio-git)  
 
-Si tienes alguna pregunta o quieres hablar sobre posibles colaboraciones, no dudes en contactarme a través de:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivio-git&layout=compact&theme=radical&hide_border=true)](https://github.com/olivio-git)  
 
-- 📌 <a href="https://www.linkedin.com/in/olivio-subelza-cabezas-b646a2249/">LinkedIn</a> 
-- 📩 Correo electrónico: Subelzaolivitocabezas@gmail.com
+---  
 
-¡Saludos! 🙂
+## 📫 **Contacto**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olivio-subelza-cabezas-b646a2249/)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Subelzaolivitocabezas@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/olivio-git)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59160276750)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=olivio-git&color=brightgreen" alt="Profile views" />
+</div>
