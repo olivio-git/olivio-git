@@ -52,11 +52,6 @@ Desarrollador **Full-Stack** apasionado por crear soluciones innovadoras.
 ![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-232F3E?style=flat&logo=amazon-aws&logoColor=white)
  
 ---
-
-## 📈 **Estadísticas GitHub**  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olivio-git&show_icons=true&theme=radical&hide_border=true)](https://github.com/olivio-git)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivio-git&layout=compact&theme=radical&hide_border=true)](https://github.com/olivio-git)  
 
 ---  
